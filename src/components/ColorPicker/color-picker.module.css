@@ -1,0 +1,54 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+  width: 80%;
+  margin-inline: auto;
+}
+
+.title {
+  font-size: 2.3rem;
+  color: #6f2bff;
+}
+
+.text {
+  display: flex;
+  color: #d92bff;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.desc-animate {
+  opacity: 0;
+  animation: fade-in 0.7s ease-in-out forwards;
+  animation-delay: 0.3s;
+}
+
+@keyframes fade-in {
+  0% {
+    opacity: 0;
+    background: rgb(224, 235, 239);
+  }
+
+  25% {
+    background: rgb(224, 235, 239);
+  }
+
+  100% {
+    opacity: 1;
+    background: transparent;
+  }
+}
+
+@media (min-width: 64rem) {
+  .container {
+    gap: 10rem;
+    flex-direction: row;
+  }
+
+  .text {
+    font-size: 1.3rem;
+  }
+}
