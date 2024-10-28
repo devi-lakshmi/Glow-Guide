@@ -32,6 +32,12 @@ Add-on packages include:
 - Context interpretation: Users are able to provide a context for using that selected color and the AI will use that context for better color recommendations
 - Color recommendations / Matching colors: The AI will give matching colors, presenting their characteristics with some description.
 
+## Our Team
+
+- Miko: [GitHub](https://github.com/jamienorthman) / [LinkedIn](https://linkedin.com/in/miko-ann-jeffries)
+- Nemanja: [GitHub](https://github.com/nemanjagradic) / [LinkedIn](https://www.linkedin.com/in/nemanja-gradic-33230b1bb/)
+- Lakshmidevi:[GitHub](https://github.com/devi-lakshmi) / [LinkedIn](https://www.linkedin.com/in/lakshmidevikanala)
+- Efezino : [GitHub](https://github.com/efezinoidisi) / [LinkedIn](https://linkedin.com/in/endurance-idisi)
 
 
 
