@@ -1,5 +1,5 @@
 # Color matching app - GlowGuide
-View app :[ glowcolorguide.netlify.app](https://glowcolorguide.netlify.app/)
+View app :https://glowcolorguide.netlify.app/
 
 ## Project Description 
 
